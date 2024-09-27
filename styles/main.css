@@ -28,6 +28,9 @@ main{
 ul li a {
   color: boldface steelblue;
 }
+ul li a:hover {
+  color: maroon;
+}
 footer{
   text-align: center;
 }
