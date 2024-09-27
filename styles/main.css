@@ -3,11 +3,13 @@ body{
   font-family: Arial, Helvectica, sans-serif;
   font-size: 100%;
 }
+section{
 a:focus, a:hover{
   color: blue;
 }
 a:link{
   color: maroon;
+}
 } 
 header img{
   float: left;
