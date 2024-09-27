@@ -1,0 +1,27 @@
+
+body{
+  font-family: Arial, Helvectica, sans-serif;
+  font-size: 100%;
+}
+a:focus, a:hover{
+  color: blue;
+}
+a:link{
+  color: maroon;
+} 
+header img{
+  float: left;
+}
+header h1{
+  font-size: 250%;
+  color: steelblue;
+  text-indent: 75px;
+  font-style: italic;
+}
+header h2{
+  font-size: 150%;
+  text-indent: 175px;
+}
+main{
+  clear: left;
+}
