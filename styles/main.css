@@ -26,7 +26,8 @@ main{
   clear: left;
 }
 ul li a {
-  color: boldface steelblue;
+  color: steelblue;
+  font-weight: bold;
 }
 ul li a:hover {
   color: maroon;
