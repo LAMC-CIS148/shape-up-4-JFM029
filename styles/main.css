@@ -25,6 +25,9 @@ header h2{
 main{
   clear: left;
 }
+ul li a {
+  color: boldface steelblue;
+}
 footer{
   text-align: center;
 }
