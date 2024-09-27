@@ -25,6 +25,9 @@ header h2{
 main{
   clear: left;
 }
+ul li{
+  margin-bottom: 15px;
+}
 ul li a {
   color: steelblue;
   font-weight: bold;
