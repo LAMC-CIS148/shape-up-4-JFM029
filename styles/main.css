@@ -15,6 +15,9 @@ a{
 header img{
   float: left;
 }
+main{
+  clear: left;
+}
 header h1{
   font-size: 250%;
   color: steelblue;
