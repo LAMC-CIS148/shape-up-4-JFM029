@@ -2,6 +2,8 @@
 body{
   font-family: Arial, Helvectica, sans-serif;
   font-size: 100%;
+  width: 900px;
+  border: 4px steelblue solid
 }
 a:focus, a:hover{
   color: blue;
