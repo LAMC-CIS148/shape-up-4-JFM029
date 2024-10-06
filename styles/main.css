@@ -4,6 +4,7 @@ body{
   font-size: 100%;
   width: 900px;
   border: 4px steelblue solid;
+  box-shadow: 5px 5px 5px 15px rgba (0, 0, 0, 0.3);
 }
 a:focus, a:hover{
   color: blue;
