@@ -17,6 +17,7 @@ a{
   text-shadow: 2px 2px 2px steelblue;
 }
 header{
+  margin: 0;
   border-bottom: 5px solid steelblue;
   background: moz-linear-gradient(
     top, rgba(255, 255, 255, 1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
