@@ -54,6 +54,8 @@ ul li a:hover {
 }
 footer{
   font-size: 75%;
+  padding: 20px;
+  margin: 0px;
   color: white;
   text-align: center;
   background-color: steelblue;
