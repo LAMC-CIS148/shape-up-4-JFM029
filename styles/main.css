@@ -18,6 +18,10 @@ a{
 }
 header{
   border-bottom: 5px solid steelblue;
+  background-image: moz-linear-gradient(
+    top, rgba(255, 255, 255, 1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+  background-image: linear-gradient(
+    bottom, rgba(179,220,237,1)0%, rgba(41, 184,229,1)50%, rgba(188,224,2381)100%);
 }
 header img{
   float: left;
