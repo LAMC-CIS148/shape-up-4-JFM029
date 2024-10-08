@@ -20,8 +20,7 @@ header{
   margin: 0px;
   padding: 0px;
   border-bottom: 5px solid steelblue;
-  background-image: linear-gradient(
-    white, lightsteelblue);
+  background-image: linear-gradient(180deg, white, lightsteelblue);
 }
 header img{
   float: left;
