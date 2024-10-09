@@ -49,6 +49,8 @@ header h1{
   color: steelblue;
   text-indent: 75px;
   font-style: italic;
+  margin-right: 10px;
+  margin-left: 5px;
 }
 header h2{
   font-size: 150%;
