@@ -30,16 +30,19 @@ main{
 }
 main h1{
   margin-right: 10px;
+  margin-left: 0px;
 }
 main h2{
   margin-right: 10px;
+  margin-left: 0px;
 }
 maing h3{
   margin-right: 10px;
+  magin-left: 0px;
 }
 main p{
-  margin-right: 10px;
-  margin-left: 5px;
+  margin-right: 20px;
+  margin-left: 10px;
 }
 header h1{
   font-size: 250%;
