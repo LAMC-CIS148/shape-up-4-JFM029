@@ -46,11 +46,11 @@ main p{
 }
 header h1{
   font-size: 250%;
+  margin-right: 50px;
+  margin-left: 45px;
   color: steelblue;
   text-indent: 75px;
   font-style: italic;
-  margin-right: 50px;
-  margin-left: 45px;
 }
 header h2{
   font-size: 150%;
