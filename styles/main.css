@@ -60,6 +60,8 @@ main p{
 }
 ul li{
   margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 10px;
 }
 ul li a {
   color: steelblue;
