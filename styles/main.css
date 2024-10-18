@@ -80,10 +80,11 @@ ul li a{
 ul li a:hover{
   color: maroon;
 }
-aside{
+.container{
+  display: flex;
+}
+.container{
   width: 245px;
-  height: 200px;
-  float: left;
 }
 footer{
   font-size: 75%;
