@@ -82,6 +82,7 @@ ul li a:hover{
 }
 #sidebarA{
   width: 245px;
+  height: 300px;
   float: left;
 }
 footer{
