@@ -42,7 +42,7 @@ header img{
 }
 main{
   width: 600px
-  float: right;
+  float: left;
 }
 main h1{
   margin-top: 25px;
@@ -80,7 +80,7 @@ ul li a {
 ul li a:hover {
   color: maroon;
 }
-aside{
+#sidebarA {
   width: 245px;
   float: left;
 }
