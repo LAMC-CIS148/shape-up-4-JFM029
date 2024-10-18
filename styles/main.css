@@ -80,7 +80,7 @@ ul li a{
 ul li a:hover{
   color: maroon;
 }
-#sidebarA{
+aside{
   width: 245px;
   height: 300px;
   float: left;
