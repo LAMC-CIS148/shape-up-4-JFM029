@@ -81,7 +81,6 @@ ul li a:hover{
   color: maroon;
 }
 aside{
-  display: flex;
   float: left;
   width: 245px;
 }
