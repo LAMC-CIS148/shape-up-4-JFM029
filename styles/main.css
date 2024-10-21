@@ -45,6 +45,7 @@ header img{
   margin-left: 30px;
 }
 main{
+  display: flex;
   width: 600px
   float: right;
 }
