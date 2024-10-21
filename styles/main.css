@@ -10,6 +10,9 @@ aside{
   width: 245px;
   float: left;
 }
+section{
+  overflow: hidden;
+}
 a:focus, a:hover{
   color: blue;
 }
@@ -45,8 +48,7 @@ header img{
   margin-left: 30px;
 }
 main{
-  display: flex;
-  width: 600px
+  width: 100%;
   float: right;
 }
 main h1{
