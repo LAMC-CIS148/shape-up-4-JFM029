@@ -1,16 +1,21 @@
 body{
   font-family: Arial, Helvectica, sans-serif;
   font-size: 100%;
-  width: 1045px;
+  width: 1200px;
   margin: 0 auto;
   border: 4px steelblue solid;
   box-shadow: 0px 0px 5px 11px rgba(0, 0, 0, 0.3);
 }
-aside{
+#left-sidebar, #right-sidebar{
   width: 245px;
   float: left;
 }
+#right-sidebar{
+  float: right;
+}
 section{
+  width: 660px;
+  margin: 0 245px;
   overflow: hidden;
 }
 a:focus, a:hover{
@@ -50,8 +55,7 @@ header img{
 }
 main{
   overflow: hidden;
-  width: 800px;
-  float: right;
+  
 }
 main h1{
   margin-top: 25px;
