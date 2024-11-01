@@ -53,6 +53,11 @@ header img{
   margin-right: 35px;
   margin-left: 30px;
 }
+.clearfix::after{
+  content: "";
+  display: table;
+  clear: both;
+}
 main{
   overflow: hidden;
   
