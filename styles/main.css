@@ -1,7 +1,7 @@
 body{
   font-family: Arial, Helvectica, sans-serif;
   font-size: 100%;
-  width: 1200px;
+  width: 900px;
   margin: 0 auto;
   border: 4px steelblue solid;
   box-shadow: 0px 0px 5px 11px rgba(0, 0, 0, 0.3);
@@ -83,10 +83,6 @@ ul li a:hover {
 #left-sidebar{
   width: 245px;
   float: left;
-}
-#right-sidebar{
-  width: 300px;
-  float: right;
 }
 footer{
   font-size: 75%;
