@@ -39,6 +39,8 @@ header h2 {
 }
 header img {
   float: left;
+  max-width: 140px;
+  min-width: 70px;
   margin: 0 5%;
 }
 #nav_menu ul {
