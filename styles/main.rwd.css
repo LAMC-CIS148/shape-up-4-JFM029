@@ -80,7 +80,7 @@ header img {
     	display: block;
 }
 /* Responsive Adjustments */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   #nav_menu ul {
     flex-direction: column;
     gap: 0.5rem;
