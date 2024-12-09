@@ -89,6 +89,10 @@ ul li a:hover {
   width: 245px;
   float: left;
 }
+#right-sidebar{
+  float: right;
+  width: 300px;
+}
 footer{
   font-size: 75%;
   padding: 5px;
