@@ -110,6 +110,9 @@ width: auto;
 padding: 0.5em 1em;
 text-align: left;
 }
+.shadow{
+text-shadow: none;
+}
 }
 section {
 width: 65%; /* Adjusted from fixed width to percentage */
