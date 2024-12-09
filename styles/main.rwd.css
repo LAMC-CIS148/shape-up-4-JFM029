@@ -46,7 +46,6 @@ margin: 0 5%;
 #nav_menu ul {
 width: 100%;
 list-style-type: none;
-position: relative;
 }
 #nav_menu ul li {
 float: left;
