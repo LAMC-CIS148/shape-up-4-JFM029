@@ -102,6 +102,7 @@ text-align: center;
 background-color: steelblue;
 }
 #nav_menu ul {
+width: 100%;
 list-style-type: none;
 }
 #nav_menu ul li {
