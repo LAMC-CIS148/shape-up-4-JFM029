@@ -154,3 +154,8 @@ position: static;
 padding: 0.6rem;
   }
 }
+@media (max-width: 767px){
+  header h2{
+    font-size: 200%;
+  }
+}
