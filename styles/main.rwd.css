@@ -101,14 +101,6 @@ color: white;
 text-align: center;
 background-color: steelblue;
 }
-#nav_menu ul li {
-float: none;
-}
-#nav_menu ul li a {
-width: auto;
-padding: 0.5em 1em;
-text-align: left;
-}
 #nav_menu ul {
 width: 100%;
 list-style-type: none;
@@ -117,6 +109,7 @@ list-style-type: none;
 float: left;
 }
 #nav_menu ul li a {
+width: auto;
 display: block;
 text-align: center;
 padding: 1em 0;
