@@ -43,8 +43,6 @@ max-width: 140px;
 min-width: 70px;
 margin: 0 5%;
 }
-
-}
 main {
 clear: left; top: 100%;
 left: 0;
@@ -62,7 +60,6 @@ text-align: left;
 }
 .shadow{
 text-shadow: none;
-}
 }
 section {
 width: 65%; /* Adjusted from fixed width to percentage */
