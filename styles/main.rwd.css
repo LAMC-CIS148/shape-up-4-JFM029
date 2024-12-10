@@ -50,14 +50,6 @@ list-style: none;
 padding: 0;
 margin: 0;
 }
-#nav_menu ul ul li {
-float: none;
-}
-#nav_menu ul ul li a {
-width: auto;
-padding: 0.5em 1em;
-text-align: left;
-}
 .shadow{
 text-shadow: none;
 }
@@ -108,6 +100,14 @@ clear: both;
 color: white;
 text-align: center;
 background-color: steelblue;
+}
+#nav_menu ul li {
+float: none;
+}
+#nav_menu ul li a {
+width: auto;
+padding: 0.5em 1em;
+text-align: left;
 }
 #nav_menu ul {
 width: 100%;
