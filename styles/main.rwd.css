@@ -200,4 +200,10 @@ text-shadow: none;
   section h2{
     font-size: 60%;
   }
+  section h3{
+    font-size: 60%;
+  }
+  section p{
+    font-size: 60%;
+  }
 }
