@@ -158,4 +158,18 @@ padding: 0.6rem;
   header h2{
     font-size: 200%;
   }
+   #nav_menu ul {
+flex-direction: column;
+gap: 0.5rem;
+  }
+  #nav_menu ul li a {
+width: 100%;
+text-align: center;
+  }
+  #nav_menu ul ul {
+position: static;
+  }
+  #nav_menu ul ul li a {
+padding: 0.6rem;
+  }
 }
