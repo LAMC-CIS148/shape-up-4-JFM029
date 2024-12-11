@@ -176,18 +176,17 @@ text-shadow: none;
   header h2{
     font-size: 200%;
   }
-   #nav_menu ul {
-flex-direction: column;
-gap: 0.5rem;
+  #nav_menu{
+    display: none;
   }
-  #nav_menu ul li a {
-width: 100%;
-text-align: center;
+  #mobile_menu{
+    background-color: Steelblue;
   }
-  #nav_menu ul ul {
-position: static;
+  #mobile_menu: hover{
+    color: lightsteelblue;
   }
-  #nav_menu ul ul li a {
-padding: 0.6rem;
+  .slicknav_menu{
+    background-color: steelblue;
+    padding: 3px;
   }
 }
