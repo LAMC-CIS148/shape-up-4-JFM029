@@ -190,3 +190,14 @@ text-shadow: none;
     padding: 3px;
   }
 }
+@media only screeen and (max-width: 479px){
+  header h2{
+    font-size: 60%;
+  }
+  section h1{
+    font-size: 60%;
+  }
+  section h2{
+    font-size: 60%;
+  }
+}
