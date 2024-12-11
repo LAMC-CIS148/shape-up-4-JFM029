@@ -135,7 +135,7 @@ clear: both;
 display: block;
 }
 /* Responsive Adjustments */
-@media only screen and (max-width: 900px) {
+@media (max-width: 900px) {
   #nav_menu ul {
 flex-direction: column;
 gap: 0.5rem;
@@ -172,7 +172,7 @@ text-shadow: none;
     font-size: 90%;
   }
 }
-@media only screen and (max-width: 767px){
+@media (max-width: 767px){
   header h2{
     font-size: 200%;
   }
@@ -190,7 +190,7 @@ text-shadow: none;
     padding: 3px;
   }
 }
-@media only screeen and (max-width: 479px){
+@media (max-width: 479px){
   header h2{
     font-size: 60%;
   }
