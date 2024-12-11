@@ -182,7 +182,7 @@ text-shadow: none;
   #mobile_menu{
     background-color: Steelblue;
   }
-  #mobile_menu:hover{
+  #mobile_menu:focus, #mobile_menu:hover{
     color: lightsteelblue;
   }
   .slicknav_menu{
