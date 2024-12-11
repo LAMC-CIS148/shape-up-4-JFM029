@@ -50,8 +50,6 @@ list-style: none;
 padding: 0;
 margin: 0;
 }
-.shadow{
-text-shadow: none;
 }
 section {
 width: 65%; /* Adjusted from fixed width to percentage */
@@ -153,6 +151,9 @@ position: static;
   #nav_menu ul ul li a {
 padding: 0.6rem;
   }
+ .shadow{
+text-shadow: none;
+}
 }
 @media (max-width: 767px){
   header h2{
