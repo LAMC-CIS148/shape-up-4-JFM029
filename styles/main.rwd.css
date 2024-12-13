@@ -80,7 +80,7 @@ width: 30%; /* Adjusted from fixed width to percentage */
 padding: 1%; /* Added padding for spacing */
 }
 aside h3{
-  color: #800000;
+color: #800000;
 }
 ul li {
 margin: 1.5% 5%; /* Proportional margins */
